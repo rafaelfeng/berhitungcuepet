@@ -4,10 +4,16 @@ A simple maths game for kids I developed when I was just starting out android de
 
 ## Screenshots
 
-![Screenshot: Home Page](screenshots/image-1.png)
+<!-- ![Screenshot: Home Page](screenshots/image-1.png)
 ![Screenshot: Difficulty Level](screenshots/image-2.png)
 ![Screenshot: Player Screen](screenshots/image-3.png)
-![Screenshot: Game Over](screenshots/image-4.png)
+![Screenshot: Game Over](screenshots/image-4.png) -->
+
+<img src="screenshots/image-1.png" width="45%">
+<img src="screenshots/image-1.png" width="45%">
+<img src="screenshots/image-1.png" width="45%">
+<img src="screenshots/image-1.png" width="45%">
+
 
 ## How to run the game?
 
