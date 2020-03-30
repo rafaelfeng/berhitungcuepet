@@ -9,8 +9,8 @@ A simple maths game for kids I developed when I was just starting out android de
 ![Screenshot: Player Screen](screenshots/image-3.png)
 ![Screenshot: Game Over](screenshots/image-4.png) -->
 
-<img src="screenshots/image-1.png" width="45%"> <img src="screenshots/image-2.png" width="45%">
-<img src="screenshots/image-3.png" width="45%"> <img src="screenshots/image-4.png" width="45%">
+<img src="screenshots/image-1.png" width="45%" alt="Screenshot: Home Page"> <img src="screenshots/image-2.png" width="45%" alt="Screenshot: Difficulty Level">
+<img src="screenshots/image-3.png" width="45%" alt="Screenshot: Player Screen"> <img src="screenshots/image-4.png" width="45%" alt="Screenshot:Game Over">
 
 
 ## How to run the game?
